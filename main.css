@@ -98,7 +98,7 @@ body {
 }
 
 /*Large Screen*/
-@media (max-width: 450px) {
+@media (min-width: 700px) {
   body {
     padding: 0 4rem;
   }
